@@ -1,8 +1,8 @@
-# Web para la JNIC 2021
+# Web para la JNIC 2022
 
-ABB TEST, importa and modify...
+Fuente original, 2020, desde la que se clona y mnodifica este repo: https://github.com/jnic2020/jnic2021.github.io
 
-La URL para probar la web es https://2021.jnic.es/
+La URL para probar la web es https://2022.jnic.es/
 
 Después de subir cambios a este repositorio, hay que esperar unos 15 segundos y refrescar la web varias veces para que se reflejen.
 
