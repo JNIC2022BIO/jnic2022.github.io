@@ -43,7 +43,7 @@ _Sara Nieves Matheu García (Universidad de Murcia)_ -->
 "Towards Privacy–Preserving Sensor–Based Continuous Authentication"  
 _Luis Hernández–Álvarez (CSIC)_ -->
 	
-Por su parte, JNIC también premia a las mejores propuestas de retos y a los grupos de investigación implicados en [la solución de retos](https://sites.google.com/site/transferenciajnic/edicion-2021-23), con las siguientes modalidades:
+Por su parte, JNIC también premia a las mejores propuestas de retos y a los grupos de investigación implicados en [la solución de retos](https://sites.google.com/site/transferenciajnic/edicion-2021-23).
 
 * __Programa de Transferencia Tecnológica JNIC2021/23. Premio a la mejor solución del certamen.__   
 <!--"Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos"  
