@@ -7,7 +7,7 @@ layout: home
 ---
 
 
-<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El envío de publicaciones se abrirá durante el mes de Enero de 2022.</i></b></h5>
+<h5 style="color:white; background-color: #550000;" class="text-center"><i class="far fa-clock mr-3"></i> <b> <i> El envío de publicaciones se abrirá durante el mes de Febrero de 2022.</i></b></h5>
  <br><br>
 
 
