@@ -24,3 +24,5 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 3 - __Programa de Transferencia Tecnológica__ (certamen de retos científicos). Se proporcionará más información próximamente. 
 
 
+
+Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad  2022” que se concederá durante las Jornadas. <a href="https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2022" target="_blank"> Ver bases y fechas</a>.
