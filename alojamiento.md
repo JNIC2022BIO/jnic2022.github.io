@@ -30,11 +30,41 @@ Contacto/Dirección
 __Parking:__ En el propio hotel. Tarifa de 20€/día.
 <br>__Otros servicios:__ 13 pisos, 278 habitaciones, 7 suites, 3 salas de reuniones, 355 Metros cuadrados del total espacio para reuniones. Política libre humo. Acceso inalámbrico gratis.
 
+<div style="margin-bottom:50px;clear:both"></div>
+
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/abba01.jpg"><img src="{{site.url}}/images/hoteles/abba01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> 
+
+
+##### __Hotel Abba Euskadulna ****__
+
+Contacto/Dirección
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.abbahoteles.com/es/destinos/abba-euskalduna-hotel/el-hotel.html" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Ventosa Bidea, 34. <a href="https://goo.gl/maps/yXVs2maXdcHPjWM37" target="_blank">Mapa</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 946 673 169
+    
+__Parking:__ Parking en el propio hotel. Tarifa de 18,00 €/día.
+<br> __Otros servicios:__ El hotel Abba Euskalduna hotel se encuentra estratégicamente situado en el centro de la ciudad de Bilbao, en frente del estadio de San Mamés y a escasos metros del Palacio Euskalduna. Dispone de 82 modernas habitaciones y tiene a tan solo 100 metros la parada de tranvía que lleva hasta el centro de la ciudad. Acceso inalámbrico gratis.
 
 
 <div style="margin-bottom:50px;clear:both"></div>
+<a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/catalonia01.jpg"><img src="{{site.url}}/images/hoteles/catalonia01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> 
+
+
+##### __Hotel Catalonia Gran Vía Bilbao ****__
+
+Contacto/Dirección
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cataloniahotels.com/es/hotel/catalonia-gran-via-bilbao" target="_blank">Web del hotel</a>  
+    &nbsp;&nbsp;&nbsp;&nbsp; Dirección: Gran Vía Don Diego López de Haro, 73 <a href="https://goo.gl/maps/oJkKj2GpWJTyZCSy6" target="_blank">Mapa</a>
+    <br>&nbsp;&nbsp;&nbsp;&nbsp; Teléfono de reservas: (+34) 944 007 946
+    
+__Parking:__ Parking en el propio hotel. 
+<br> __Otros servicios:__ El hotel Catalonia Gran Vía Bilbao, inaugurado en el año 2021 se encuentra en pleno centro de Bilbao, muy cerca del Museo Guggenheim y del Palacio de Congresos Euskalduna. Dispone de 106 cómodas habitaciones, wifi gratuito en todo el hotel, parking propio, piscina y terraza, jardín urbano y zona wellness y spa.
+
+<!--
 
 <a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/miro05.jpg"><img src="{{site.url}}/images/hoteles/miro05.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> 
+
+
 ##### __Hotel Miro ****__
 
 Contacto/Dirección
@@ -62,6 +92,7 @@ Contacto/Dirección
 __Parking:__ En el propio hotel, garaje privado (cubierto) de más de 100 plazas y con acceso directo a la recepción del Hotel.
 <br>__Otros servicios__: El Hotel Abando se encuentra ubicado en el centro de Bilbao frente al Tribunal de Justicia, junto a los Jardines de Albia, y paralelo a la calle peatonal Ledesma (famosa por sus bares de pintxos). Próximo a la estación de tren de Abando (a 300 metros) y a la parada de metro de Abando (líneas 1 y 2) a 50 metros. Su inmejorable ubicación convierte al Hotel Abando en la mejor opción de alojamiento tanto para el turista de ocio, como para el visitante de negocio en Bilbao.
 
+-->
 
 <div style="margin-bottom:50px;clear:both"></div>
 
