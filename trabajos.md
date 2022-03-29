@@ -38,5 +38,5 @@ Toda participación en las JNIC2022 estará sujeta a la aceptación de las [base
 
 Todas las contribuciones (que podrán ser en español o en inglés) seguirán el estilo __IEEEtrans__ dispuesto para JNIC tanto en formato [Latex]({{site.url}}/assets/jnic2022_trabajos_latex.zip) como en formato [MS WORD]({{site.url}}/assets/jnic2022_trabajos_word.zip).
 
-Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como Future Generations Computer Systems (FGCS) (Q1) y Wireless Networks (WINET) 
+Las versiones extendidas de los mejores artículos podrán enviarse a Special Issues de revistas indexadas en el JCR en posiciones relevantes tales como Future Generations Computer Systems (FGCS) (Q1) y Wireless Networks (WINET) (Q2).
 
