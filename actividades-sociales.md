@@ -21,13 +21,69 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 A continuación, detallamos las actividades sociales de JNIC 2022, centrados en la cultura y gastronomía vasca.
 
-<p align="center"><b><i>(Pulsa en la imagen para cargar la galería).</i></b></p>
+### 27 Junio 2022
+<div class="container">
+  <table style="width: 100%; border: 0">
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+     <h5 style="text-align:center">Navegando Bilbao</h5>
+    </td>
+    <td style="width: 2%;">&nbsp;</td>
+    <td style="width: 49%; text-align: center;">
+     <h5 style="text-align:center">Cena en Casco Viejo</h5>
+    </td>
+  </tr>
+  <tr style="vertical-align: top;">
+    <td style="background: #fff; width: 49%; text-align: center;">
+      <img src="{{site.url}}/images/actividades/bilboats.jpg"/>
+    </td>
+    <td style="background: #fff; width: 2%;">&nbsp;</td>
+    <td style="background: #fff; width: 49%; text-align: center;">
+      <img src="{{site.url}}/images/actividades/cascoviejo.jpg"/>
+    </td>
+   </tr>
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+      <p style="text-align:center"> Este paseo, por el corazón de la Villa, dura unos 60 minutos, visitando la zona centro de Bilbao, desde el puente del Ayuntamiento a la Ribera de Zorrotzaurre <a href="https://www.bilboats.com/navegando-bilbao/">Bilboats</a>.</p>
+    </td>
+    <td style="width: 2%;">&nbsp;</td>
+    <td style="width: 49%; text-align: center;">
+      <p style="text-align:center"> Cena en una restaurante donde disfrutar de la comida típica vasca Paseo por Bilbao con información sobre la historia y arquitectura de la villa</p>
+    </td>
+   </tr>
+ </table>
+</div>
 
-<div align="center" style="padding: 15px">
-<a data-fancybox="gallery-actividades" data-caption='1 - Visita al museo Guggenheim.' href="{{site.url}}/images/actividades/guggenheim.jpg"><img src="{{site.url}}/images/actividades/guggenheim.jpg" style="max-height: 600px;"></a>
-<a data-fancybox="gallery-actividades" data-caption='2 - Cena en el restaurante Bistró Guggenheim.' href="{{site.url}}/images/actividades/bistro.png"></a>
-<a data-fancybox="gallery-actividades" data-caption='3 - Navegando al mar.' href="{{site.url}}/images/actividades/boats.png"></a>
-<!-- <a data-fancybox="gallery-actividades" data-caption='2 - Cena "a la luz de las estrellas".' href="{{site.url}}/images/actividades/Cena estrellas.jpg"></a>
-<a data-fancybox="gallery-actividades" data-caption='5 - Visita Guiada "Cáceres Ciudad Monumental".' href="{{site.url}}/images/actividades/Visita Guiada Cáceres Ciudad Monumental.jpg"></a>
-<a data-fancybox="gallery-actividades" data-caption='6 - Cena de Gala – Castillo de la Arguijuela.' href="{{site.url}}/images/actividades/Cena de Gala - Castillo de la Arguijuela.jpg"></a>
-</div> -->
+### 28 Junio 2022
+ 
+<div class="container">
+ <table style="width: 100%; border: 0">
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+     <h5 style="text-align:center">Visita guiada por Bilbao</h5>
+    </td>
+    <td style="width: 2%;">&nbsp;</td>
+    <td style="width: 49%; text-align: center;">
+     <h5 style="text-align:center">Cena de gala</h5>
+    </td>
+  </tr>
+  <tr style="vertical-align: top;">
+    <td style="background: #fff; width: 49%; text-align: center;">
+      <img src="{{site.url}}/images/actividades/guiadabilbao.jpg"/>
+    </td>
+    <td style="background: #fff; width: 2%;">&nbsp;</td>
+    <td style="background: #fff; width: 49%; text-align: center;">
+      <img src="{{site.url}}/images/actividades/sanmames.jpg"/>
+    </td>
+   </tr>
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+      <p style="text-align:center"> Paseo por Bilbao con información sobre la historia y arquitectura de la villa.</p>
+    </td>
+    <td style="width: 2%;">&nbsp;</td>
+    <td style="width: 49%; text-align: center;">
+      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/"> restaurante San Mamés</a>.</p>
+    </td>
+   </tr>
+ </table>
+</div>
