@@ -30,7 +30,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 Aparte de esto, se considerarán resultados de __TFMs y Tesis Doctorales__ sobre ciberseguridad que deseen presentarse a la “Edición de Premios RENIC de Investigación en Ciberseguridad  2022” que se concederá durante las Jornadas. <a href="https://www.renic.es/es/convocados-los-premios-de-investigacion-en-ciberseguridad-2022" target="_blank"> Ver bases y fechas</a>.
 
 
-__Fecha límite__ de recepción de trabajos:  _22/04/2022 (para tanto a artículos como resúmenes extendidos)_. 
+__Fecha límite__ de recepción de trabajos:  _29/04/2022 (para tanto a artículos como resúmenes extendidos)_. 
 
 El envío de contribuciones se realizará a través de la plataforma EasyChair, mediante este <a href="https://easychair.org/my/conference?conf=jnic2022" target="_blank">enlace</a>. 
 
