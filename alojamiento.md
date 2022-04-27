@@ -35,7 +35,7 @@ __Parking:__ En el propio hotel. Tarifa de 20€/día.
 <a data-fancybox="gallery-miro" href="{{site.url}}/images/hoteles/abba01.jpg"><img src="{{site.url}}/images/hoteles/abba01.jpg" style="margin-left:15px;width: 100%; border-radius: 25px; max-width: 400px; height: auto; float: right"></a> 
 
 
-##### __Hotel Abba Euskadulna ****__
+##### __Hotel Abba Euskalduna ****__
 
 Contacto/Dirección
     <br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.abbahoteles.com/es/destinos/abba-euskalduna-hotel/el-hotel.html" target="_blank">Web del hotel</a>  
