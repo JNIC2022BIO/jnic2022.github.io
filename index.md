@@ -31,7 +31,7 @@ JNIC es un congreso científico que promueve el contacto, intercambio y discusi�
 
 Investigadores y profesionales de diferentes puntos de la geografía nacional presentarán el resultado de sus investigaciones científicas desde diversas perspectivas con un nexo común: la ciberseguridad.
 
-Como en las ediciones anteriores, las Jornadas se centrarán en tres ejes fundamentales: Investigación en Ciberseguridad, Docencia e Innovación Educativa en Ciberseguridad y Transferencia Tecnológica.
+Las Jornadas se centrarán en dos ejes fundamentales: Investigación en Ciberseguridad y Docencia e Innovación Educativa en Ciberseguridad.
 
 En esta edición, versiones revisadas y extendidas de los mejores artículos podrán ser enviadas a Special Issues de diferentes revistas internacionales indexadas en posiciones relevantes del JCR, lo que supone un salto de calidad y un gran atractivo para los investigadores. Más concretamente, ya tenemos confirmado un special issue en la revista <a href="https://www.sciencedirect.com/journal/future-generation-computer-systems/about/call-for-papers#special-issue-on-cybersecurity-in-the-digital-world" target="_blank"> Future Generations Computer Systems </a> (FGCS) (Q1) y otro en la revista Wireless Networks (WINET)(Q2).
              
