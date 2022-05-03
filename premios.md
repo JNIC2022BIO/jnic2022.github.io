@@ -45,19 +45,8 @@ _Luis Hernández–Álvarez (CSIC)_ -->
 	
 Por su parte, JNIC también premia a las mejores propuestas de retos y a los grupos de investigación implicados en [la solución de retos](https://sites.google.com/site/transferenciajnic/edicion-2021-23).
 
-* __Programa de Transferencia Tecnológica JNIC2021/23. Premio a la mejor solución del certamen.__   
-<!--"Aplicación de control de acceso y técnicas de Blockchain para el control de datos genéticos"  
-_Isabel Román, Germán Madinabeitia, Rafael Estepa, J. Diaz-Verdejo, Antonio Estepa, José Luis González-Sánchez, Felipe Lemus Prieto_ -->
+<!--* __Programa de Transferencia Tecnológica JNIC2021/23. Premio a la mejor solución del certamen.__  -->
 
-<!--
-* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto COM1__  
-	
-
-* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto EP1__   
-	
-* __Programa de Transferencia JNIC2019/20. Premio a la mejor solución del reto EP2__   
-	
--->
 
 <!--	
 	<div class="text-center">
