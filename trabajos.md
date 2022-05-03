@@ -23,7 +23,7 @@ Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamenta
 
 2 - __Formación e innovación educativa en ciberseguridad__. En este caso, se espera un único tipo de contribución como artículo largo (máximo 8 páginas).
 
-3 - __Programa de Transferencia Tecnológica__ (certamen de retos científicos). Se proporcionará más información próximamente. 
+<!--3 - __Programa de Transferencia Tecnológica__ (certamen de retos científicos). Se proporcionará más información próximamente. -->
 
 <!-- [Más información](https://transferencia.jnic.es/edicion-2019-20). -->
 
