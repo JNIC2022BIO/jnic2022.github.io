@@ -13,7 +13,7 @@ layout: home
 
 
 
-Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en tres áreas de trabajo:
+Las Jornadas, organizadas de forma conjunta con INCIBE, se centrarán fundamentalmente en dos áreas de trabajo:
 
 1 - __Investigación en ciberseguridad__. Se consideran los siguientes tipos de contribución:
 
