@@ -1,16 +1,10 @@
 [
 	{
-		"contenido":"Bilbao será la sede de las JNIC 2022  
+		"contenido":"Publicadas las bases de los Premios RENIC de Investigación en Ciberseguridad 2022
 		",
-		"fecha":"11/06/2021",
-		"fecha_ref":"2021-06-11"
-	},
-	{
-		"contenido":"Publicación Web JNIC2022
-		",
-		"fecha":"23/12/2021",
-		"fecha_ref":"2021-12-23"
-	},
+		"fecha":"07/02/2022",
+		"fecha_ref":"2022-02-07"
+	},	
 	{
 		"contenido":"Abierto el CFP para las JNIC2022
 		",
@@ -30,7 +24,7 @@
 		"fecha_ref":"2022-04-08"
 	},
 	{
-		"contenido":"ÚLTIMA extensión para la recepción de trabajos. Manda tu artículo antes del 29/04/2022.
+		"contenido":"ULTIMA extensión para la recepción de trabajos. Manda tu artículo antes del 29/04/2022.
 		",
 		"fecha":"20/04/2022",
 		"fecha_ref":"2022-04-20"
@@ -40,6 +34,12 @@
 		",
 		"fecha":"16/05/2022",
 		"fecha_ref":"2022-05-16"
+	},
+	{
+		"contenido":"Abierto el plazo para el envío de candidaturas para ser sede de las VIII Jornadas Nacionales de Investigación (JNIC 2023). 
+		",
+		"fecha":"18/05/2022",
+		"fecha_ref":"2022-05-18"
 	}
 ]
 
