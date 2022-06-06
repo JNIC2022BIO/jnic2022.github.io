@@ -21,6 +21,27 @@ __[Programa]({{site.url}}/programa)__ / [Actividades Sociales]({{site.url}}/acti
 
 A continuación, detallamos las actividades sociales de JNIC 2022, centrados en la cultura y gastronomía vasca.
 
+### 26 Junio 2022
+<div class="container">
+  <table style="width: 100%; border: 0">
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+     <h5 style="text-align:center">Evento de bienvenida</h5>
+    </td>
+   </tr>
+  <tr style="vertical-align: top;">
+    <td style="background: #fff; width: 49%; text-align: center;">
+      <img src="{{site.url}}/images/actividades/bienvenida.jpg" width="400" height="400">
+    </td>
+       </tr>
+   <tr style="vertical-align: top;">
+    <td style="width: 49%; text-align: center;">
+      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño picoteo. <a href="http://happyriver.es/" target="_blank">Evento bienvenida</a>.</p>
+    </td>
+    </tr>
+ </table>
+</div>
+
 ### 27 Junio 2022
 <div class="container">
   <table style="width: 100%; border: 0">
