@@ -134,7 +134,7 @@ layout: page
        <b>Participantes</b>: TBC
         <br>
         <!-- <ul>
-          <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de CyberSeguridas, TECNALIA.</li>
+          <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de CyberSeguridad, TECNALIA.</li>
           <li>Iberdrola / Kutxabank. </li>
           <li>Sr. Eduardo Jacob, UPV/EHU.</li>
           <li>Sr. Iñaki Pinto, Sener.</li>
