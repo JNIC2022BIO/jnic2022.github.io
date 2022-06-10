@@ -36,7 +36,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
        </tr>
    <tr style="vertical-align: top;">
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño picoteo. <a href="http://happyriver.es/" target="_blank">Evento bienvenida</a>.</p>
+      <p style="text-align:center"> Evento de bienvenida donde nos reencontraremos y charlaremos tranquilamente con un pequeño picoteo. Nos encontraremos a las 19:30 en <a href="http://happyriver.es/" target="_blank">Happy River</a>. y estaremos hasta las 21:00. <a href="https://goo.gl/maps/cyZoWKKgrahQWbSr6" target="_blank"> ¿Dónde está?</a></p>
     </td>
     </tr>
  </table>
