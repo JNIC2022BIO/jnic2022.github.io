@@ -39,23 +39,8 @@ Por otra parte, también se hará entrega a los premios otorgados por la [RENIC]
 <!-- "Definició́n de una Metodología para la Evaluación de Seguridad de Dispositivos del Internet de las Cosas"  
 _Sara Nieves Matheu García (Universidad de Murcia)_ -->
 
-<!--* __Mejor TFM en Ciberseguridad:__   
-"Towards Privacy–Preserving Sensor–Based Continuous Authentication"  
+* __Mejor TFM en Ciberseguridad:__   
+<!-- "Towards Privacy–Preserving Sensor–Based Continuous Authentication"  
 _Luis Hernández–Álvarez (CSIC)_ -->
 	
-Por su parte, JNIC también premia a las mejores propuestas de retos y a los grupos de investigación implicados en [la solución de retos](https://sites.google.com/site/transferenciajnic/edicion-2021-23).
 
-<!--* __Programa de Transferencia Tecnológica JNIC2021/23. Premio a la mejor solución del certamen.__  -->
-
-
-<!--	
-	<div class="text-center">
-	<img style="max-height: 200px; padding:50px;" src="{{site.url}}/images/cybercamp.png">
-	</div>
-
-Además, [INCIBE](https://www.incibe.es/) podrá seleccionar de entre los trabajos expuestos en las JNIC, aquellos que considere que mejor representan el espíritu del evento [CyberCamp 2021](https://cybercamp.es/) (mayoritariamente técnico y de carácter innovador). En caso de ser seleccionados, se entregará una invitación para la presentación de su trabajo de forma presencial en ese evento. Los seleccionados expondrán, durante el evento, una ponencia/taller dando a conocer las investigaciones realizadas y que se expusieron en las JNIC2021.
-
-Esta invitación incluirá: el viaje (para una persona) desde la ciudad de origen hasta la ciudad de destino donde se celebre CyberCamp 2021, el alojamiento por una noche en un hotel lo más cercano posible a la zona de influencia del evento (la fecha exacta dependerá de la fecha en la que se realice la ponencia/taller) y la reserva de una plaza como ponente de CyberCamp 2021.
-
-La gestión del viaje y alojamiento serán realizados por la Organización de [CyberCamp 2021](https://cybercamp.es/).
--->
