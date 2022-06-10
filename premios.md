@@ -39,7 +39,7 @@ Por otra parte, también se hará entrega a los premios otorgados por la [RENIC]
 <!-- "Definició́n de una Metodología para la Evaluación de Seguridad de Dispositivos del Internet de las Cosas"  
 _Sara Nieves Matheu García (Universidad de Murcia)_ -->
 
-* __Mejor TFM en Ciberseguridad:__   
+* __Mejor TFM en Ciberseguridad.__   
 <!-- "Towards Privacy–Preserving Sensor–Based Continuous Authentication"  
 _Luis Hernández–Álvarez (CSIC)_ -->
 	
