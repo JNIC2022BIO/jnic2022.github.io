@@ -33,7 +33,6 @@ layout: page
     <tr>
      <td><b>9:00</b></td>
       <td colspan="2">
-        <b>Conferencia invitada: </b>
        <a href="https://2022.jnic.es/conferenciab"><b>Conferencia invitada: </b><i>"Combating the Internet of Evil Things: detecting, profiling and mitigating IoT-based attacks"</i></a>
         <br>
         <i>Carlos H Gañan -- Delft University</i>
