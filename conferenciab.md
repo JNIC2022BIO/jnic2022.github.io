@@ -22,7 +22,6 @@ Despite the benefits of the widespread deployment of diverse Internet-enabled de
 <center>
 <img src= "{{site.url}}/images/carlos.jpg">
 </center>
-
 <br>
 Carlos is an associate professor at Delft University of Technology in the Netherlands and lead security researcher at ICANN. His research focuses on measuring and improving the resiliency and stability of the Internet and in particular the internet of things. He leverages socio-technical approaches that combine big data analysis techniques and network science methods to understand cybersecurity issues.  Carlos hold a M.Sc in telematics, telecommunications and business administration as well as a Ph.D. in network security from the Technical University of Catalonia. 
 
