@@ -12,7 +12,7 @@ layout: page
 <!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
 </div><br>
 
-### __Programa JNIC 2022 - Provisional__
+### __Programa JNIC 2022__
 
 <div class="text-center">
 <a href="{{site.url}}/programa26"><img src="{{site.url}}/images/ico26.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;26 Junio</strong></a> &nbsp;&nbsp;&nbsp;
@@ -30,14 +30,18 @@ layout: page
     <tr>
       <td><b>9:30</b></td>
       <td colspan="2">
-        <b>Conferencia por determinar</b>
-        </td>
+        <b>Retos de investigación en ciberseguridad para la resiliencia empresarial.</b>
+        <br>
+        Organizada por: <a href="http://www.pesi-seguridadindustrial.org/es" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/pesi.png"></a> 
+        <a href="https://www.cybasque.eus/home-cybasque" target="_blank"><img style="max-height: 80px; padding:25px;" src="/images/patrocinadores/CYBASQUE.png"></a> 
+        <br> 
+      </td>
     </tr>
     <tr>
      <td><b>10:30</b></td>
       <td>
         <b>Sesión VI: Mecanismos de protección del usuario </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> Victor A. Villagrá González, Universidad Politécnica de Madrid.
         <br>
         <ul>
          <FONT SIZE=2><li>Automatizando RGPD 2016/679 mediante Procesos de Negocio: El caso del Artículo 32.
@@ -94,7 +98,7 @@ layout: page
      <td><b>12:15</b></td>
       <td>
         <b>Sesión VII: Criptografía y herramientas matemáticas  </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> Luis Hernández Encinas, Consejo Superior de Investigaciones Científicas.
         <br>
         <ul>
          <FONT SIZE=2><li>Análisis estadístico seguro para ensayos clínicos.
