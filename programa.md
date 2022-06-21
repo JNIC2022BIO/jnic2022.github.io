@@ -9,10 +9,9 @@ layout: page
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" 	width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="60"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
-<!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
 </div><br>
 
-### __Programa JNIC 2022 - Provisional__
+### __Programa JNIC 2022__
 <div class="text-center">
 <a href="{{site.url}}/programa26"><img src="{{site.url}}/images/ico26.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;26 Junio</strong></a> &nbsp;&nbsp;&nbsp;
   <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
@@ -27,31 +26,31 @@ layout: page
       <th colspan="2">Sesión</th>
     </tr>
     <tr>
-       <th><b>8:15</b></th>
+       <th><b>8:30</b></th>
       <th colspan="2">Registro y recogida de documentación.</th>
     </tr>
     <tr>
       <td><b>9:15</b></td>
       <td colspan="2">
         <b>Inauguración oficial de las JNIC 2022</b>
-        <!--
         <ul>
          <FONT SIZE=2><li>Sr. D. Jesus Valero. Director General de TECNALIA</li>
-          <li>Representación Gobierno Vasco: TBC</li>
+          <li>Sra. Estibaliz Hernáez, Viceconsejera, Departamento de Tecnología, Innovación y Transformación Digital, EUSKO JAURLARITZA/GOBIERNO VASCO </li>
           <li>Sra. Dña. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA</li>
-          <li> Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
-          <li>Representación INCIBE: TBC</li></FONT>
-        </ul> -->
+          <li>Sra. Dña. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Representación INCIBE: A confirmar.</li></FONT>
+        </ul>
       </td>
     </tr>
     <tr>
      <td><b>10:00</b></td>
       <td colspan="2">
-        <a href="https://2022.jnic.es/conferenciaa"><b>Conferencia invitada: </b><i>"Towards a quantitative approach to security"</i></a>
+        <!--<b>Conferencia invitada: "Towards a quantitative approach to security" </b>-->
+        <a href="http://jnic2022.mytri.cc/conferenciaa"><b>Conferencia invitada: </b><i>"Towards a quantitative approach to security"</i></a>
         <br>
         <i>Valentina Casola --  Dipartimento di Ingegneria Elettrica e Tecnologie dell'Informazione, University of Naples Federico</i>
         <br>
-       </td>
+      </td>
     </tr>
      <tr>
       <td><b>11:00</b></td>
@@ -90,7 +89,7 @@ layout: page
      <td><b>11:30</b></td>
       <td>
         <b>Sesión I: Seguridad web e Internet </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidente: </b> José María de Fuentes García-Romero de Tejada, Universidad Carlos III de Madrid
         <br>
         <ul>
          <FONT SIZE=2><li> Extracción de variables para caracterización multi-clase de la severidad de IPs.
@@ -108,13 +107,13 @@ layout: page
           <li>FCTNLP: An architecture to fight cyberterrorism with natural language processing.
           <br> <i>Andrés Zapata, Daniel Díaz-López, Javier Pastor-Galindo y Félix Gómez Mármol</i><br></li></FONT>
         </ul>
-        </td>       
+        </td>        
       </tr>
     <tr>
       <td><b>12:45</b></td>
       <td>
         <b>Sesión II: Formación e Innovación Educativa</b>
-        <br><b> Presidente:</b>  Jose Carlos Sancho (Universidad de Extremadura)
+        <br><b> Presidente:</b>  Jose Carlos Sancho Núñez, Universidad de Extremadura
         <br>
         <ul>
          <FONT SIZE=2><li>DIANA: Un asesor virtual inteligente para la transformación digital segura.
@@ -137,7 +136,7 @@ layout: page
      <td><b>15:15</b></td>
       <td>
         <b>Sesión III: Vulnerabilidades y ciber amenazas</b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidenta: </b> Noemí De Castro García, Universidad de León
         <br>
         <ul>
          <FONT SIZE=2> <li>Estrategias de inmunización selectiva para la mitigación del movimiento lateral.
@@ -167,34 +166,41 @@ layout: page
       <td colspan="2">
         <b>Mesa Redonda:</b><i> La Investigación Aplicada: Cómo recorrer el camino desde la Investigación a la Transferencia Tecnológica.</i>
         <br>
-        <b>Moderador</b>: Sra. Ana Ayerbe. TECNALIA-BRTA y WOMEN4CYBER
+        <b>Moderadora</b>: Sra. Ana Ayerbe. TECNALIA-BRTA y WOMEN4CYBER
         <br>
-       <b>Participantes</b>: TBC
+       <b>Participantes</b>: 
         <br>
-        <!--<ul>
-          <FONT SIZE=2><li>Sra. Iratxe Martin. Responsable de Infraestructuras del Basque Cybersecurity Center (BCSC)  </li>
-          <li>Sra. Garbiñe Manterola.  Knowledge Transfer Manager del Basque Research & Technology Alliance (BRTA)</li>
-          <li>Sra. Eva Ferreira. Rectora de la UPV/EHU</li>
-          <li>Sra. Lola Rebollo. Gerente del área de Apoyo a la Empresa, Industria, Emprendimiento e I+D+i (INCIBE)</li> </FONT>
-        </ul> -->
+        <ul>
+          <FONT SIZE=2><li>Sra. Iratxe Martin. Basque Cybersecurity Center (BCSC). </li>
+          <li>Sra. Garbiñe Manterola. Basque Research & Technology Alliance (BRTA).</li>
+          <li>Sra. Jaxone Astorga. Universidad del País Vasco (UPV/EHU).</li>
+          <li>Sra. Aitana Alonso. INCIBE.</li> 
+          <li>Sra. Sheila Mendez. IZERTIS.</li> </FONT>
+        </ul>
          Organizada por: <a href="https://www.women4cyberspain.es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/Logos/Women4Cyber.png"></a> 
-        <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a>
+        <a href="https://www.basquecybersecurity.eus/es/" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/BCSC.png"></a> 
         <a href="https://www.tecnalia.com" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/TECNALIA_BRT.jpg"></a>
         <br> 
        <!-- Organiza:<a href="http://www.pesi-seguridadindustrial.org/es"><img src="/Logos/pesi.png"></a>
         <br> -->
       </td>
     </tr>
+    <tr>
+      <td><b>17:45</b></td>
+      <td colspan="2">
+        <b>Fin del primer día</b> 
+       </td>
+    </tr>
    <tr>
       <td><b>19:00</b></td>
       <td colspan="2">
-        <b>Navegando Bilbao</b> 
+        <b>Navegando Bilbao. <a href="https://goo.gl/maps/h6Q3ibVTsxiURk578" target="_blank">Punto de encuentro</a> </b> a las 18:45. 
        </td>
     </tr>
     <tr>
       <td><b>21:00</b></td>
       <td colspan="2">
-        <b>Cena en el Restaurante El Txoko Berria</b> 
+        <b>Cena en el Restaurante El Txoko Berria.</b> <a href="https://g.page/eltxokoberria?share" target="_blank"> Mapa</a>. 
        </td>
     </tr>
   </tbody>
