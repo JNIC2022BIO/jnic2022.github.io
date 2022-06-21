@@ -173,7 +173,7 @@ layout: page
         <ul>
           <FONT SIZE=2><li>Sra. Iratxe Martin. Basque Cybersecurity Center (BCSC). </li>
           <li>Sra. Garbiñe Manterola. Basque Research & Technology Alliance (BRTA).</li>
-          <li>Sra. Jaxone Astorga. Universidad del País Vasco (UPV/EHU).</li>
+          <li>Sra. Jasone Astorga. Universidad del País Vasco (UPV/EHU).</li>
           <li>Sra. Aitana Alonso. INCIBE.</li> 
           <li>Sra. Sheila Mendez. IZERTIS.</li> </FONT>
         </ul>
