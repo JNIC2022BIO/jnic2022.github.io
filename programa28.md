@@ -9,10 +9,10 @@ layout: page
 <a href="{{site.url}}/programa"><img src="{{site.url}}/images/IcoPrograma.jpg" class="img-circle" width="40" height="40"><strong>Programa</strong></a> &nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/actividades-sociales"><img src="{{site.url}}/images/IcoActividades.jpg" class="img-circle" 	width="40" height="60"><strong>Actividades sociales</strong></a>&nbsp;&nbsp;&nbsp;
 <a href="{{site.url}}/premios"><img src="{{site.url}}/images/IcoPremios.jpg" class="img-circle" 	width="40" height="40"><strong>Premios</strong></a>&nbsp;&nbsp;&nbsp;
-<!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a> -->
+
 </div><br>
 
-### __Programa JNIC 2022 - Provisional__
+### __Programa JNIC 2022__
 <div class="text-center">
 <a href="{{site.url}}/programa26"><img src="{{site.url}}/images/ico26.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;26 Junio</strong></a> &nbsp;&nbsp;&nbsp;
   <a href="{{site.url}}/programa"><img src="{{site.url}}/images/ico27.PNG" class="img-circle" 	width="20" height="20"><strong>&nbsp;27 Junio</strong></a> &nbsp;&nbsp;&nbsp;
@@ -33,7 +33,8 @@ layout: page
     <tr>
      <td><b>9:00</b></td>
       <td colspan="2">
-       <a href="https://2022.jnic.es/conferenciab"><b>Conferencia invitada: </b><i>"Combating the Internet of Evil Things: detecting, profiling and mitigating IoT-based attacks"</i></a>
+        <!--<b>Conferencia invitada: </b> -->
+        <a href="https://2022.jnic.es/conferenciab"><b>Conferencia invitada: </b><i>"Combating the Internet of Evil Things: detecting, profiling and mitigating IoT-based attacks"</i></a>
         <br>
         <i>Carlos H Gañan -- Delft University</i>
         <br>
@@ -43,13 +44,13 @@ layout: page
      <td><b>10:00</b></td>
       <td>
         <b>Sesión IV: Vulnerabilidades y ciber amenazas </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidenta: </b> Lorena González Manzano, Universidad Carlos III de Madrid.
         <br>
         <ul>
          <FONT SIZE=2><li> A Review of Kubernetes Security Vulnerabilities, Attacks and Practices.
           <br> <i>Santiago Figueroa Lorenzo y Saioa Arrizabalaga</i><br></li>
           <li>Plataforma Europea para adquisición de Consciencia de Situación del Ciberespacio.
-          <br> <i>Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Francisco Antonio Rodriguez Lopez, Monica Mateos Calle, Daniel Tornero Sánchez, Juan Manuel Estevez Tapiador, Víctor Abraham Villagrá Gonzalez, Rebeca Gomez Henche y Mario Aragonés Lozanoo</i><br></li>
+          <br> <i>Jorge Maestre Vidal, Marco Antonio Sotelo Monge, Francisco Antonio Rodriguez Lopez, Monica Mateos Calle, Daniel Tornero Sánchez, Juan Manuel Estevez Tapiador, Víctor Abraham Villagrá Gonzalez, Rebeca Gomez Henche y Mario Aragonés Lozano</i><br></li>
           <li>Privacidad contextual en entornos Edge.
           <br> <i>Manuel Ruiz Ruiz, Rubén Ríos del Pozo, Rodrigo Román Castro y Javier López Muñoz</i><br></li>
           <li>ChaosXploit: A Security Chaos Engineering framework based on Attack Trees.
@@ -98,7 +99,7 @@ layout: page
      <td><b>12:00</b></td>
       <td>
         <b>Sesión V: Seguridad IoT, IIoT, ICS </b>
-        <br><b> Presidente: </b> TBC
+        <br><b> Presidenta: </b> Marisa Escalante Martínez, TECNALIA.
         <br>
         <ul>
          <FONT SIZE=2><li> Hacia la creación de reglas CEP no supervisadas para la detección en tiempo real de ataques en entornos IoT.
@@ -128,17 +129,16 @@ layout: page
       <td colspan="2">
         <b>Mesa Redonda:</b><i> Presente y futuro de la criptografía tras la llegada del adversario cuántico.</i>
         <br>
-        <b>Moderador</b>:Sra. Nerea Martiartu, Lantik.
+        <b>Moderadora</b>: Sra. Nerea Martiartu, Lantik.
         <br>
-       <b>Participantes</b>: TBC
+       <b>Participantes</b>: 
         <br>
-        <!-- <ul>
-          <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de CyberSeguridad, TECNALIA.</li>
-          <li>Iberdrola / Kutxabank. </li>
-          <li>Sr. Eduardo Jacob, UPV/EHU.</li>
-          <li>Sr. Iñaki Pinto, Sener.</li>
-          <li>Sr. Gerard Vidal, Enigmedia. </li> </FONT>
-        </ul> -->
+          <ul>
+          <FONT SIZE=2><li>Sr. Oscar Lage. Responsable de ciberseguridad. TECNALIA.</li>
+          <li>Sr. Koldo Etxebarria, CIO Kutxabank. </li>
+          <li>Sr. Eduardo Jacob, Universidad del País Vasco (UPV/EHU).</li>
+            <li>Sra. Vanesa Díaz, Directora de Desarrollo de Negocio, LuxQuanta.</li></FONT>
+        </ul> 
          Organizada por: <a href="https://lantik.bizkaia.eus/es/inicio" target="_blank"><img style="max-height: 100px; padding:25px;" src="/images/patrocinadores/DFB-lantik.png"></a>
         <br>
       </td>
@@ -171,15 +171,21 @@ layout: page
        </td>
      </tr>
    <tr>
-      <td><b>19:30</b></td>
+     <tr>
+      <td><b>17:45</b></td>
       <td colspan="2">
-        <b>Visita guiada por Bilbao</b> 
+        <b>Fin del segundo día</b> 
+       </td>
+    </tr> 
+     <td><b>19:30</b></td>
+      <td colspan="2">
+        <b>Visita guiada por Bilbao</b>. Nos reuniremos a las 19:15 en el <a href="https://goo.gl/maps/DTjJ3STHZkh458jV7" target="_blank">palacio euskalduna</a>. 
        </td>
     </tr>
     <tr>
       <td><b>21:30</b></td>
       <td colspan="2">
-        <b>Cena de gala en el restaurante San Mamés.</b> 
+        <b>Cena de gala en el restaurante San Mamés.</b> <a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>. 
        </td>
     </tr>
   </tbody>
