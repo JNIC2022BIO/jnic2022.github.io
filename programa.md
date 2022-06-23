@@ -37,7 +37,7 @@ layout: page
          <FONT SIZE=2><li>Sr. Jesús Valero, Director General de TECNALIA</li>
           <li>Sra. Estíbaliz Hernáez, Viceconsejera, Departamento de Tecnología, Innovación y Transformación Digital, EUSKO JAURLARITZA/GOBIERNO VASCO </li>
           <li>Sra. Ainara Basurko, Diputada, Departamento de Promoción Económica, DIPUTACIÓN FORAL DE BIZKAIA.</li>
-          <li>Sra. Oihane Aguirregoitia, Concejala, Departamento de Atención y Participación Ciudadana e Internacionalización, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
+          <li>Sra. Oihane Aguirregoitia, Concejala, Delegada del Área de Atención y Participación Ciudadana e Internacional, AYUNTAMIENTO DE BILBAO. Presidenta de BILBOTIK.</li>
           <li>Sr. Juan Díez González, Responsable de Apoyo a la  I+D+i de INCIBE.</li></FONT>
         </ul>
       </td>
