@@ -5,22 +5,11 @@
 layout: home
 ---
 
-<!-- <H2 style="text-align: center; background-color:red; color:white;">INFORMACION</h2> -->
-<!-- <H2 style="text-align: center;"><strong><a href="http://doi.org/10.18239/jornadas_2021.34.00" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong></H2> -->
-<!-- <H2 style="text-align: center;">
-    <strong><a href="{{site.url}}/Actas_JNIC_2021.pdf" target="_actas">Descarga las Actas JNIC 2021 Live</a></strong>
-</H2>
-<h3 style="text-align: center">
-    <a href="https://www.youtube.com/channel/UCp34bSijbcf0xeJk2AI5dCw/videos">
-        <img src="https://2021.jnic.es/Logos/youtube_logo.png" style="vertical-align:bottom"/>
-        Accede al canal YouTube de las jornadas para ver las sesiones
-    </a>
-</h3> -->
-<p style="text-align: justify;">
-</p>
-<!-- <h3><strong>Importante: </strong></h3> 
-<h4><center>Para conectar a las jornadas consulte el <a href="{{site.url}}/programa">programa</a> y allí encontrará los enlaces a las sesiones</center></h4> -->
-<p style="text-align: center; background-color:red; color:white;"></p>
+<h2 style="text-align: center;">
+    <strong><a href="{{site.url}}/Actas_JNIC2022_v11.pdf" target="_actas">Descarga las Actas JNIC 20222</a></strong>
+</h2>
+
+<br>
 
 Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041e">N</span>acionales de <span style="color:#e3041e">I</span>nvestigación en <span style="color:#e3041e">C</span>iberseguridad (<span style="color:#e3041e">JNIC</span>)</b> se celebrarán en el <a href="https://www.euskalduna.eus/es" target="_blank">Palacio Euskalduna</a> de Bilbao entre los días 27 y 29 de junio de 2022. 
 
