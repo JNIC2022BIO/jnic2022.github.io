@@ -15,7 +15,6 @@ Las <b>VII <span style="color:#e3041e">J</span>ornadas <span style="color:#e3041
 
 El Instituto Nacional de Ciberseguridad (<a href="https://www.incibe.es/" target="_blank">INCIBE</a>) colabora en la realización de estas Jornadas. INCIBE es la entidad de referencia nacional para el desarrollo de la ciberseguridad y de la confianza digital de ciudadanos, red académica y de investigación, profesionales, empresas y especialmente para sectores estratégicos. Es misión de INCIBE apoyar la I+D+i para generar conocimiento y tecnología que haga frente a las necesidades y retos que plantean las ciberamenazas y ciberataques.   
 
-
 JNIC es un congreso científico que promueve el contacto, intercambio y discusión de ideas, conocimientos y experiencias entre la red académica y de investigación por una parte, y profesionales y empresas por otra. Sirve de escaparte de los últimos avances científicos en la materia y materializa un foro de debate en el que presentar perspectivas y enfoques innovadores en ciberseguridad, posibilitando la conexión entre la acción investigadora e innovadora y el desarrollo de productos y servicios de valor para la sociedad.
 
 Investigadores y profesionales de diferentes puntos de la geografía nacional presentarán el resultado de sus investigaciones científicas desde diversas perspectivas con un nexo común: la ciberseguridad.
