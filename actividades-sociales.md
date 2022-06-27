@@ -104,7 +104,7 @@ A continuación, detallamos las actividades sociales de JNIC 2022, centrados en 
     </td>
     <td style="width: 2%;">&nbsp;</td>
     <td style="width: 49%; text-align: center;">
-      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>. La cena empezará a  las 21:30. <a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>.</p>
+      <p style="text-align:center">Cena de gala en el <a href="https://www.sanmamesjatetxea.com/es/" target="_blank"> restaurante San Mamés</a>. La cena empezará a  las 21:00. <a href="https://goo.gl/maps/3FxAjbjWVBDdspGM6" target="_blank">Mapa</a>.</p>
     </td>
    </tr>
  </table>
