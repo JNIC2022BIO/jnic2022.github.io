@@ -13,34 +13,32 @@ layout: page
 <!--<a href="{{site.url}}/track-transferencia" class=""><img src="{{site.url}}/images/IcoTrackTX.jpg" class="img-circle" 	width="40" height="40"><strong>Track de Transferencia</strong></a>-->
 </div><br>
 
-#### __Premios JNIC 2022__
+### __Premios JNIC 2022__
 
-Desde la organización de las JNIC se premiarán las contribuciones más importantes de las jornadas, en las siguientes categorías:
+Desde la organización de las JNIC 2022 se otorgan los siguientes premios a las contribuciones más importantes de las jornadas, en las siguientes categorías:
 
 * __Premio al mejor artículo de investigación.__  
-<!--"Análisis de la Normativa sobre Seguridad de Redes y Sistemas de Información: el Real Decreto 43/2021"  
-_Margarita Robles_ -->
+“Aleatorización de direcciones IP para mitigar ataques de reconocimiento de forma proactiva en sistemas de control industrial”   
+_Xabier Etxezarreta, Iñaki Garitano, Mikel Iturbe y Urko Zurutuza._ 
 	
 * __Premio al mejor artículo de formación e innovación educativa.__  
-<!--"Metodología de resolución de pruebas CTF para adquirir habilidades de seguridad informática y análisis forense."  
-_José Carlos Sancho Núñez, Delia Mª Pablo Rodríguez y Andrés Caro Lindo._  -->
+"Ejercicio de cyber-range avanzado en una subestación eléctrica."  
+_Cristina Regueiro, Angel López, Xabier Yurrebaso, Elixabete Ostolaza, Florian Gautier, Julien Calvas y Bernard Roussely._  
 
 * __Premio al mejor trabajo en desarrollo.__  
-<!--"Homomorphic SVM Inference for Fraud Detection"  
-_Adrián Vázquez-Saavedra, Gonzalo Jiménez-Balsa, Jaime Loureiro-Acuña, Manuel Fernández-Veiga, Alberto Pedrouzo-Ulloa_ -->
+"FATR: a Framework for Automated Analysis of Threat Reports."  
+_Juan Caballero, Gibran Gómez, Srdjan Matic, Gustavo Sánchez, Silvia Sebastián y Arturo Villacañas._
 
-<!-- * __Premio al mejor trabajo ya publicado:__   
-"A Review of 'Camera Attribution Forensic Analyzer in the Encrypted Domain'"  
-_Alberto Pedrouzo-Ulloa, Miguel Masciopinto, Juan Ramon Troncoso-Pastoriza, Fernando Perez-González_ -->
 
-Por otra parte, también se hará entrega a los premios otorgados por la [RENIC](https://www.incibe.es/red-excelencia-idi-ciberseguridad) a la mejor Tesis y TFM de Ciberseguridad, cuyos premiados son los siguientes:
+
+Por otra parte, los premios otorgados por la [RENIC](https://www.incibe.es/red-excelencia-idi-ciberseguridad) a la mejor Tesis y TFM de Ciberseguridad, son los siguientes:
 
 * __Mejor Tesis Doctoral en Ciberseguridad.__   
-<!-- "Definició́n de una Metodología para la Evaluación de Seguridad de Dispositivos del Internet de las Cosas"  
-_Sara Nieves Matheu García (Universidad de Murcia)_ -->
+"Towards Decentralized And Scalable Architectures For Access Control Systems For IIoT Scenarios."  
+_Santiago Figueroa Lorenzo_
 
-* __Mejor TFM en Ciberseguridad.__   
-<!-- "Towards Privacy–Preserving Sensor–Based Continuous Authentication"  
-_Luis Hernández–Álvarez (CSIC)_ -->
+* __Mejor TFM en Ciberseguridad:__   
+"Extracción y Análisis de Artefactos de Memoria de la Aplicación Telegram Desktop"  
+_Pedro Fernández Álvarez_ 
 	
 
