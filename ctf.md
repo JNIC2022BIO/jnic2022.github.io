@@ -11,8 +11,6 @@ layout: page
 
 El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
 
-El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
-
 ### Resultados
 
 La Cátedra Viewnext-UEx sobre “Seguridad y Auditoría de Sistemas Software” organizó coincidiendo con las JNIC-2022 una nueva edición de su CTF. Se trata de la cuarta ocasión en que se organiza este tipo de eventos, tras las ediciones de 2018 en el marco de ForoCIBER, 2019 y 2021, donde se integraron por primera vez con las JNIC.
