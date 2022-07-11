@@ -11,6 +11,38 @@ layout: page
 
 El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
 
+El **Capture The Flag JNIC** es una competición virtual que pretende detectar y premiar a las nuevas promesas de la **#ciberseguridad** del ámbito nacional. Creado para complementar las VII Jornadas Nacionales de Investigación en Ciberseguridad, se celebrarán entre los días **27 y 29 de junio de 2022**. Diseñado para llegar a cualquier persona que sienta interés sobre la ciberseguridad y pensado para identificar talento entre usuarios que quieran poner a prueba sus conocimientos, habilidades y destrezas en este ámbito trascendental para la tecnología.
+
+### Resultados
+
+La Cátedra Viewnext-UEx sobre “Seguridad y Auditoría de Sistemas Software” organizó coincidiendo con las JNIC-2022 una nueva edición de su CTF. Se trata de la cuarta ocasión en que se organiza este tipo de eventos, tras las ediciones de 2018 en el marco de ForoCIBER, 2019 y 2021, donde se integraron por primera vez con las JNIC.
+
+Como en ocasiones anteriores, el objetivo principal era ofrecer una serie de retos (4 en concreto) para hacer pasar un “buen rato” a los participantes, fomentando en cualquier caso el interés en por ciberseguridad a través de la resolución de los retos propuestos de hacking ético. Otro objetivo secundario era fomentar la camaradería y fomentar el contacto entre los participantes, en este caso a través de la participación en equipos de hasta 3 personas. Por supuesto, los participantes de los tres primeros clasificados recibieron un premio por su buena labor, que no todo va a ser por amor al arte.
+
+La participación ha sido francamente sensacional. Sin duda, la implicación tanto de INCIBE como de la organización de las JNIC-2022 en la difusión de este CTF ha sido clave. 
+
+Se inscribieron un total de 277 participantes (93 equipos), pertenecientes a un total de 161 universidades, institutos o centros de formación y empresas diferentes. Además, incluso ha habido participantes de 13 países extranjeros, principalmente de Latinoamérica.
+
+Comentando otros indicadores de participación, es destacable que 50 equipos (150 participantes) al menos han superado alguno de los retos, siendo 11 equipos (33 participantes) los que consiguieron superar los 4 retos propuestos.
+
+Para terminar, además de felicitar a todos los participantes en nuestro CTF, queremos felicitar especialmente a los ganadores:
+
++ 1ª equipo clasificado – BelgiumB33r. (Universidad Rey Juan Carlos).  **Premiados con un Ipad 2021 64GB**
+  + **RAÚL MARTÍN SANTAMARÍA**.
+  + **SERGIO PÉREZ PELÓ**.
+  + **ISAAC LOZANO OSORIO**
++ 2ª equipo clasificado – LasNancysRubias (Universidad Rey Juan Carlos) **Premiados con un Smart Watch Samsung Galaxy Watch4.**
+  + **DIEGO PALACIOS ORTEGA**.
+  + **ISMAEL GÓMEZ ESQUILICHI**.
+  + **DAVID BILLHARDT DESDENTADO**.
++ 3º equipo clasificado – IcebergAtómico (Universidad de Extremadura) **Premiados con unos auriculares HUAWEI FreeBuds Pro.**
+  + **DAVID GORDILLO BURRERO**.
+  + **MARCOS JESÚS SEQUERA FERNÁNDEZ**.
+  + **JAVIER MATEOS MANZANO**.
+
+**¡Nos vemos en la edición de 2023!**
+
+
 A continuación puede consultar cuales fueron las normas de participación:
 ### Participación
 
