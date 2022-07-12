@@ -25,11 +25,11 @@ Comentando otros indicadores de participación, es destacable que 50 equipos (15
 
 Para terminar, además de felicitar a todos los participantes en nuestro CTF, queremos felicitar especialmente a los ganadores:
 
-+ 1ª equipo clasificado – BelgiumB33r. (Universidad Rey Juan Carlos).  **Premiados con un Ipad 2021 64GB**
++ 1º equipo clasificado – BelgiumB33r. (Universidad Rey Juan Carlos).  **Premiados con un Ipad 2021 64GB**
   + **RAÚL MARTÍN SANTAMARÍA**.
   + **SERGIO PÉREZ PELÓ**.
   + **ISAAC LOZANO OSORIO**
-+ 2ª equipo clasificado – LasNancysRubias (Universidad Rey Juan Carlos) **Premiados con un Smart Watch Samsung Galaxy Watch4.**
++ 2º equipo clasificado – LasNancysRubias (Universidad Rey Juan Carlos) **Premiados con un Smart Watch Samsung Galaxy Watch4.**
   + **DIEGO PALACIOS ORTEGA**.
   + **ISMAEL GÓMEZ ESQUILICHI**.
   + **DAVID BILLHARDT DESDENTADO**.
